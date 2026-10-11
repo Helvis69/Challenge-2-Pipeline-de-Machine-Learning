@@ -17,7 +17,9 @@
 
 ### Representación visual
 
-<img width="1408" height="768" alt="image" src="https://github.com/user-attachments/assets/bf07aae7-3689-41c1-8310-2e3d95d98e20" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bf07aae7-3689-41c1-8310-2e3d95d98e20" alt="Representación Visual del Espacio de Estados" width="40%" />
+</p>
 
 
 La búsqueda en anchura (BFS) recorre los estados alcanzables; la búsqueda de mejor costo selecciona el estado con el menor valor de la función objetivo entre los estados factibles. Los pesos y reducciones son inventados para la demostración del algoritmo.
