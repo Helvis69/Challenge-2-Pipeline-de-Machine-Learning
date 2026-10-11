@@ -1,5 +1,5 @@
 # Challenge 1 (Individual): Pipeline de Machine Learning
-## Caso B: Infecciones Respiratorias Agudas (IRA) y neumonía en menores de 5 años en el Perú
+## Caso: Infecciones Respiratorias Agudas (IRA) y neumonía en menores de 5 años en el Perú
 
 **Curso:** Machine Learning - Fundamentos de Machine Learning  
 **Docente:** Yannick Patrick Carrasco Merma  
