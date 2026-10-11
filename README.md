@@ -54,4 +54,11 @@ Colab 2: https://colab.research.google.com/drive/1Zien0zPVn7rhmJnMpJe_bxboxnZW6r
 
 ## 6. Interpretación responsable
 
-Las cifras anuales se transcriben de la infografía del caso. Los datos mensuales del modelo y los valores de los escenarios de búsqueda son sintéticos/didácticos. Una asociación temporal no demuestra que una intervención específica haya causado la reducción. El modelo no debe utilizarse para diagnóstico, tratamiento ni decisiones reales de salud pública.
+Con el objetivo de garantizar la integridad científica y el uso ético de la Inteligencia Artificial aplicada a la gestión pública, se establecen las siguientes condiciones de interpretación para este proyecto:
+
+* **Datos limitados:** La infografía solo da 3 datos anuales (2023-2025). Son muy pocos para entrenar una IA real. Por eso, el proyecto usa datos mensuales inventados (sintéticos) para demostrar cómo funciona el código.
+  
+* **Tendencia no es causalidad:** Que la gráfica muestre que los casos bajan no significa que una sola acción (como vacunar o lavarse las manos) sea la única causa. En salud influyen muchas variables (clima, población, etc.).
+  
+* **Uso académico:** Este trabajo es 100% didáctico para el curso de Machine Learning. No se debe usar para tomar decisiones reales de salud pública ni para diagnósticos médicos.
+
