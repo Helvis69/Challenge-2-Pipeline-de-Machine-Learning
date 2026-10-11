@@ -1,6 +1,14 @@
 # Challenge 1 (Individual): Pipeline de Machine Learning
 ## Caso: Infecciones Respiratorias Agudas (IRA) y neumonía en menores de 5 años en el Perú
 
+### Representación visual
+
+-
+
+<img src="https://github.com/user-attachments/assets/952e5506-273d-4c40-9a48-481c6f84f4cb" alt="Representación Visual del Espacio de Estados" width="70%" />
+
+-
+
 **Curso:** Machine Learning - Fundamentos de Machine Learning  
 **Docente:** Yannick Patrick Carrasco Merma  
 **Unidad:** 2  
