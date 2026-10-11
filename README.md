@@ -1,7 +1,6 @@
 # Challenge 1 (Individual): Pipeline de Machine Learning
 ## Caso: Infecciones Respiratorias Agudas (IRA) y neumonía en menores de 5 años en el Perú
 
-### Representación visual
 
 -
 
