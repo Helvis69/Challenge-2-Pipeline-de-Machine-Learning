@@ -5,7 +5,7 @@
 
 -
 
-<img src="https://github.com/user-attachments/assets/952e5506-273d-4c40-9a48-481c6f84f4cb" alt="Representación Visual del Espacio de Estados" width="70%" />
+<img width="1392" height="928" alt="image" src="https://github.com/user-attachments/assets/d60f3923-b677-4fdf-8535-9aef93db40ec" />
 
 -
 
